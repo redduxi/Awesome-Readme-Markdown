@@ -8,14 +8,18 @@
 	2. [Bulleted list](#bulleted)
 	3. [Task list](#Task)
 6. [Links](#Links)
-7. [Images](#Images)
-8. [Tables](#Tables)
-9. [Quotes](#Quotes)
-10. [Code Blocks](#Code)
-11. [Emoji](#Emoji)
-12. [GitHub stats](#stats)
-13. [Markdown Editor](https://jbt.github.io/markdown-editor/)
-14. [Awesome README](https://github.com/matiassingers/awesome-readme)
+7. [Badges](#Badges)
+8. [Images](#Images)
+9. [Tables](#Tables)
+10. [Quotes](#Quotes)
+11. [Footnote](#Footnote)
+12. [Code Blocks](#Code)
+13. [Ignore Markdown formatting](#Ignore)
+14. [Emoji](#Emoji)
+15. [GitHub stats](#stats)
+16. [Markdown Editor](https://jbt.github.io/markdown-editor/)
+17. [Awesome README](https://github.com/matiassingers/awesome-readme)
+18. [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 # <a name="Headers">Headers</a> 
 
@@ -238,7 +242,6 @@ Task list:
 
 ![GitHub](https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png)
 
-
 ```
 ![GitHub](https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png)
 ```
@@ -264,6 +267,29 @@ Task list:
 ```
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" height="100" />
 ```
+
+# <a name="Badges">Badges</a>
+
+[![Build][awesome-image]][awesome-url]
+
+[awesome-url]: https://github.com/redduxi/Awesome-Readme-Markdown/
+[awesome-image]: https://p.kindpng.com/picc/s/736-7368452_grunge-awesome-label-psd-graphic-design-hd-png.png
+
+```
+[![Build][awesome-image]][awesome-url]
+
+[awesome-url]: https://github.com/redduxi/Awesome-Readme-Markdown/
+[awesome-image]: https://p.kindpng.com/picc/s/736-7368452_grunge-awesome-label-psd-graphic-design-hd-png.png
+```
+
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://github.com/redduxi/Awesome-Readme-Markdown/)
+
+```
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://github.com/redduxi/Awesome-Readme-Markdown/)
+```
+
+:dizzy: [See other budges](https://shields.io/)
+:dizzy: [Version Badge](https://badge.fury.io/)
 
 # <a name="Tables">Tables</a>
 
@@ -330,6 +356,26 @@ italic | bold
 > 	
 > 	 Used to fill pages and test the appearance of layouts
 ```
+# <a name="Footnote">Footnote</a>
+
+Footnote<sup>1</sup>
+
+Footnote<sup>2</sup>
+
+```
+Footnote<sup>1</sup>
+
+Footnote<sup>2</sup>
+```
+
+Lorem Ipsum <sup id="lorem">[1](#Footnote1)</sup>
+
+<b id="Footnote1">1</b> Lorem Ipsum is simply dummy text of the printing and typesetting industry. [↩](#lorem)
+
+```
+Lorem Ipsum <sup id="lorem">[1](#Footnote1)</sup>
+<b id="Footnote1">1</b> Lorem Ipsum is simply dummy text of the printing and typesetting industry. [↩](#lorem)
+```
 
 # <a name="Code">Code Blocks</a>
 
@@ -345,6 +391,13 @@ italic | bold
 ///
 int main(){///}
 ```(used without brackets)
+```
+# <a name="Ignore">Ignore Markdown formatting</a>
+
+Lorem Ipsum is simply \*dummy\* text of the printing and \*typesetting industry\*.
+
+```
+Lorem Ipsum is simply \*dummy\* text of the printing and \*typesetting industry\*.
 ```
 
 # <a name="Emoji">Emoji</a>
