@@ -1,39 +1,53 @@
 # Awesome-Readme_Markup
 
+## Table of Contents
+1. [Headers](#Headers)
+3. [Text selection](#selection)
+4. [Lists](#Lists)
+	1. [Numbered list](#numbered)
+	2. [Bulleted list](#bulleted)
+	3. [Task list](#Task)
+6. [Links](#Links)
+7. [Images](#Images)
+8. [Tables](#Tables)
+9. [Quotes](#Quotes)
+10. [Code Blocks](#Code)
+11. [Emoji](#Emoji)
+12. [GitHub stats](#stats)
 
-# Headers
+# <a name="Headers">Headers</a> 
 
+# <a name="H1">H1</a> 
+
+```
 # H1
-
-```
-# H1
 ```
 
-## H2
+## <a name="H2">H2</a> 
 
 ```
 ## H2
 ```
 
-### H3
+### <a name="H3">H3</a> 
 
 ```
 ### H3
 ```
 
-#### H4
+#### <a name="H4">H4</a> 
 
 ```
 #### H4
 ```
 
-##### H5
+##### <a name="H5">H5</a> 
 
 ```
 ##### H5
 ```
 
-###### H6
+###### <a name="H6">H6</a> 
 
 ```
 ###### H6
@@ -55,7 +69,7 @@ H2
 -
 ```
 
-# Text selection
+# <a name="selection">Text selection</a> 
 
 asterisk *italic*
 
@@ -93,8 +107,8 @@ __bold__
 ~~crossed out text~~
 ```
 
-# Lists
-numbered list:
+# <a name="Lists">Lists</a> 
+<a name="numbered">numbered list:</a> 
 1. one
 2. two
 
@@ -109,7 +123,25 @@ numbered list:
 3. three
 ```
 
-bulleted list:
+multilevel numbered list:
+1. level 1
+    1. level 2
+2. level 1
+    1. level 2
+    2. level 2
+    	1. level 3
+
+```
+multilevel numbered list:
+1. level 1
+[4 spaces]1. level 2
+2. level 1
+[4 spaces]1. level 2
+[4 spaces]2. level 2
+[8 spaces]1. level 3
+```
+
+<a name="bulleted">bulleted list:</a> 
 + one
 - two
 * three
@@ -139,25 +171,7 @@ multilevel bulleted list:
 [8 spaces]- level 3
 ```
 
-multilevel numbered list:
-1. level 1
-    1. level 2
-2. level 1
-    1. level 2
-    2. level 2
-    	1. level 3
-
-```
-multilevel numbered list:
-1. level 1
-[4 spaces]1. level 2
-2. level 1
-[4 spaces]1. level 2
-[4 spaces]2. level 2
-[8 spaces]1. level 3
-```
-
-Task list
+<a name="Task">Task list:</a>
 - [ ] todo 1
 - [x] todo 2
 - [x] todo 3
@@ -165,7 +179,7 @@ Task list
 	- [ ] todo 4.1
 	- [ ] todo 4.2
 ```
-Task list
+Task list:
 - [ ] todo 1
 - [x] todo 2
 - [x] todo 3
@@ -174,7 +188,7 @@ Task list
 	- [ ] todo 4.2
 ```
 
-# Links
+# <a name="Links">Links</a>
 
 [Link to GitHub](https://github.com/)
 
@@ -218,7 +232,7 @@ Task list
 *[Link to GitHub](https://github.com)*
 ```
 
-# Images
+# <a name="Images">Images</a>
 
 ![GitHub](https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png)
 
@@ -249,7 +263,7 @@ Task list
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" height="100" />
 ```
 
-# Tables
+# <a name="Tables">Tables</a>
 
 |        LEFT       |      CENTER      |       RIGHT      |
 |:------------------|:----------------:|----------------: |
@@ -272,7 +286,7 @@ italic | bold
 *text* | **text**
 ```
 
-# Quotes
+# <a name="Quotes">Quotes</a>
 > Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 > 
 ```
@@ -315,7 +329,7 @@ italic | bold
 > 	 Used to fill pages and test the appearance of layouts
 ```
 
-# Code Blocks
+# <a name="Code">Code Blocks</a>
 
 ```c++
  #include <iostream> 
@@ -331,12 +345,12 @@ int main(){///}
 ```(used without brackets)
 ```
 
-# Emoji
+# <a name="Emoji">Emoji</a>
 :smile: I use emoji
 
 :dizzy: [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
-# GitHub stats
+# <a name="stats">GitHub stats</a>
 <img src="https://github-readme-stats.vercel.app/api?username=redduxi&show_owner=true&show_icons=true&theme=dark">
 
 ```
