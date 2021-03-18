@@ -14,6 +14,8 @@
 10. [Code Blocks](#Code)
 11. [Emoji](#Emoji)
 12. [GitHub stats](#stats)
+13. [Markdown Editor](https://jbt.github.io/markdown-editor/)
+14. [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 # <a name="Headers">Headers</a> 
 
