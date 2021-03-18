@@ -220,32 +220,33 @@ Task list
 
 # Images
 
-![GitHub](https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4)
+![GitHub](https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png)
+
 
 ```
-![GitHub](https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4)
+![GitHub](https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png)
 ```
 
-[![GitHub](https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4)](https://github.com/)
+[![GitHub](https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png)](https://github.com/)
 
 ```
-[![GitHub](https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4)](https://github.com/)
+[![GitHub](https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png)](https://github.com/)
 ```
 
 ![alt text][logo]
 
-[logo]:https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4
+[logo]:https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png
 
 ```
 ![alt text][logo]
 
-[logo]:https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4
+[logo]:https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png
 ```
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4" height="100" />
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" height="100" />
 
 ```
-<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616084760~hmac=db4baaabeaaed2b4a4bcb029a85132d4" height="100" />
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" height="100" />
 ```
 
 # Tables
