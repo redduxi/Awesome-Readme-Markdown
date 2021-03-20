@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Headers](#Headers)
-3. [Text selection](#selection)
+3. [Text Selection](#selection)
 4. [Lists](#Lists)
 	1. [Numbered list](#numbered)
 	2. [Bulleted list](#bulleted)
@@ -10,16 +10,17 @@
 6. [Links](#Links)
 7. [Badges](#Badges)
 8. [Images](#Images)
-9. [Tables](#Tables)
-10. [Quotes](#Quotes)
-11. [Footnote](#Footnote)
-12. [Code Blocks](#Code)
-13. [Ignore Markdown formatting](#Ignore)
-14. [Emoji](#Emoji)
-15. [GitHub stats](#stats)
-16. [Markdown Editor](https://jbt.github.io/markdown-editor/)
-17. [Awesome README](https://github.com/matiassingers/awesome-readme)
-18. [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+9. [Videos](#Video)
+10. [Tables](#Tables)
+11. [Quotes](#Quotes)
+12. [Footnote](#Footnote)
+13. [Code Blocks](#Code)
+14. [Ignore Markdown Formatting](#Ignore)
+15. [Emoji](#Emoji)
+16. [GitHub stats](#stats)
+17. [Markdown Editor](https://jbt.github.io/markdown-editor/)
+18. [Awesome README](https://github.com/matiassingers/awesome-readme)
+19. [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 # <a name="Headers">Headers</a> 
 
@@ -111,6 +112,24 @@ __bold__
 
 ```
 ~~crossed out text~~
+```
+
+`code highlight`
+
+```
+`code highlight`
+```
+
+This is <sub>subscript!</sub>
+
+```
+This is <sub>subscript!</sub>
+```
+
+This is <sup>superscript!</sup>
+
+```
+This is <sup>superscript!</sup>
 ```
 
 # <a name="Lists">Lists</a> 
@@ -268,6 +287,10 @@ Task list:
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" height="100" />
 ```
 
+# <a name="Videos">Videos</a>
+
+![Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
 # <a name="Badges">Badges</a>
 
 [![Build][awesome-image]][awesome-url]
@@ -313,6 +336,10 @@ italic | bold
 ---    | ---
 *text* | **text**
 ```
+
+[HTML table syntax into Markdown](https://jmalarcon.github.io/markdowntables/)
+
+[Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 # <a name="Quotes">Quotes</a>
 > Lorem Ipsum is simply dummy text of the printing and typesetting industry.
