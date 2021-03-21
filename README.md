@@ -7,10 +7,11 @@
 	1. [Numbered list](#numbered)
 	2. [Bulleted list](#bulleted)
 	3. [Task list](#Task)
+	4. [Dropdown list](#Dropdown)
 6. [Links](#Links)
 7. [Badges](#Badges)
 8. [Images](#Images)
-9. [Videos](#Video)
+9. [Gif](#Gif)
 10. [Tables](#Tables)
 11. [Quotes](#Quotes)
 12. [Footnote](#Footnote)
@@ -213,6 +214,55 @@ Task list:
 	- [ ] todo 4.2
 ```
 
+<a name="Dropdown">Dropdown list</a>
+
+<details open>
+<summary>language</summary>
+Java<br>
+C++<br>
+C#
+</details>
+
+```
+<details open>
+<summary>language</summary>
+Java<br>
+C++<br>
+C#
+</details>
+```
+
+<details>
+<summary>language</summary>
+<ul>
+<li>Java</li>
+<li>C#</li>
+<li>C++</li>
+</ul>
+</details>
+
+```
+<details>
+<summary>language</summary>
+<ul>
+<li>Java</li>
+<li>C#</li>
+<li>C++</li>
+</ul>
+</details>
+```
+
+```python
+print('Hello world!')
+```
+
+<details>
+<summary>Show markdown</summary>
+```python<br>
+print('Hello world!')
+```
+</details>
+
 # <a name="Links">Links</a>
 
 [Link to GitHub](https://github.com/)
@@ -287,9 +337,15 @@ Task list:
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" height="100" />
 ```
 
-# <a name="Videos">Videos</a>
+# <a name="Gif">Gif</a>
 
-![Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+![Gif](https://giffiles.alphacoders.com/398/3987.gif)
+
+```
+![Gif](https://giffiles.alphacoders.com/398/3987.gif)
+```
+
+If you want **add video into readme** you can [convert](https://gist.github.com/harunawaizumi/958f4a613f626dbd22f7840245cdd1cf) him to gif format.
 
 # <a name="Badges">Badges</a>
 
