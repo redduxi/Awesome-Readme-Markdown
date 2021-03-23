@@ -337,6 +337,34 @@ print('Hello world!')
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" height="100" />
 ```
 
+### Left align
+
+<img align="left" width="100" height="100" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png">
+
+```
+<img align="left" width="100" height="100" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png">
+```
+<br><br>
+### Rigth align
+
+<img align="right" width="100" height="100" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png">
+
+```
+<img align="right" width="100" height="100" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png">
+```
+
+### Center align
+
+<p align="center">
+<img width="100" height="100" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png">
+</p>
+
+```
+<p align="center">
+<img width="100" height="100" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png">
+</p>
+```
+
 # <a name="Gif">Gif</a>
 
 ![Gif](https://giffiles.alphacoders.com/398/3987.gif)
