@@ -10,18 +10,18 @@
 	4. [Dropdown list](#Dropdown)
 6. [Links](#Links)
 7. [Badges](#Badges)
-8. [Images](#Images)
-9. [Gif](#Gif)
-10. [Tables](#Tables)
-11. [Quotes](#Quotes)
-12. [Footnote](#Footnote)
-13. [Code Blocks](#Code)
-14. [Ignore Markdown Formatting](#Ignore)
-15. [Emoji](#Emoji)
-16. [GitHub stats](#stats)
-17. [Markdown Editor](https://jbt.github.io/markdown-editor/)
-18. [Awesome README](https://github.com/matiassingers/awesome-readme)
-19. [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+8. [Buy me a coffe](#coffe)
+9. [Images](#Images)
+10. [Gif](#Gif)
+11. [Tables](#Tables)
+12. [Quotes](#Quotes)
+13. [Footnote](#Footnote)
+14. [Code Blocks](#Code)
+15. [Ignore Markdown Formatting](#Ignore)
+16. [Emoji](#Emoji)
+17. [GitHub stats](#stats)
+18. [Markdown Editors](#Editor)
+19. [Others resources](#Resources)
 
 # <a name="Headers">Headers</a> 
 
@@ -398,6 +398,11 @@ If you want **add video into readme** you can [convert](https://gist.github.com/
 :dizzy: [See other budges](https://shields.io/)
 :dizzy: [Version Badge](https://badge.fury.io/)
 
+# <a name="coffe">Buy me a coffe</a>
+
+[Buy me a coffe](https://github.com/appcraftstudio/buymeacoffee)
+
+
 # <a name="Tables">Tables</a>
 
 |        LEFT       |      CENTER      |       RIGHT      |
@@ -532,5 +537,22 @@ Lorem Ipsum is simply \*dummy\* text of the printing and \*typesetting industry\
 - Themes
 - Customization
 
+# <a name="Editor">Markdown Editors</a>
+
+- [Markdown editor](https://jbt.github.io/markdown-editor/)
+- [Bywor‪d‬](https://bywordapp.com/)
+- [Ulysse‪s‬](https://ulysses.app/)
+- [MacDown](https://macdown.uranusjr.com/)
+- [Caret](https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=ru)
+- [Typora](https://typora.io/)
+- [Haroopad](http://pad.haroopress.com/)
+- [HackMD](https://hackmd.io/)
+- [StackEdit](https://stackedit.io/)
+- [Dillinger](https://dillinger.io/)
+
+# <a name="Resources">Other resources</a>
+
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 :wink: :revolving_hearts:
